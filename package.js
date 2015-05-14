@@ -5,8 +5,8 @@
 Package.describe({
   name: 'moonco:hammer',
   summary: 'Meteor wrapper for the Hammer.js library',
-  version: '0.0.2',
-  git: 'https://github.com/moon/hammer'
+  version: '0.0.3',
+  git: 'https://github.com/moon/meteor-hammer'
 });
 
 //------------------------------
